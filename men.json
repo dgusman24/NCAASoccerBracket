@@ -1,0 +1,912 @@
+{
+  "gender": "Men",
+  "year": 2026,
+  "participants": [
+    "Jamie",
+    "Goga",
+    "Flaujae",
+    "Emma",
+    "Dom",
+    "Johnnie",
+    "Brycen",
+    "Jacie"
+  ],
+  "games": [
+    {
+      "id": "R1-1-1",
+      "round": 1,
+      "region": "Quadrant 1",
+      "team1": "Syracuse",
+      "team2": "Sacred Heart",
+      "winner": "Syracuse",
+      "feeders": []
+    },
+    {
+      "id": "R1-1-2",
+      "round": 1,
+      "region": "Quadrant 1",
+      "team1": "Creighton",
+      "team2": "Omaha",
+      "winner": "Omaha",
+      "feeders": []
+    },
+    {
+      "id": "R1-1-3",
+      "round": 1,
+      "region": "Quadrant 1",
+      "team1": "Cornell",
+      "team2": "FDU",
+      "winner": "Cornell",
+      "feeders": []
+    },
+    {
+      "id": "R1-1-4",
+      "round": 1,
+      "region": "Quadrant 1",
+      "team1": "San Diego",
+      "team2": "Grand Canyon",
+      "winner": "Grand Canyon",
+      "feeders": []
+    },
+    {
+      "id": "R1-2-1",
+      "round": 1,
+      "region": "Quadrant 2",
+      "team1": "Vermont",
+      "team2": "North Florida",
+      "winner": "Vermont",
+      "feeders": []
+    },
+    {
+      "id": "R1-2-2",
+      "round": 1,
+      "region": "Quadrant 2",
+      "team1": "Stanford",
+      "team2": "Tulsa",
+      "winner": "Stanford",
+      "feeders": []
+    },
+    {
+      "id": "R1-2-3",
+      "round": 1,
+      "region": "Quadrant 2",
+      "team1": "Marshall",
+      "team2": "Bowling Green",
+      "winner": "Marshall",
+      "feeders": []
+    },
+    {
+      "id": "R1-2-4",
+      "round": 1,
+      "region": "Quadrant 2",
+      "team1": "Wake Forest",
+      "team2": "Longwood",
+      "winner": "Wake Forest",
+      "feeders": []
+    },
+    {
+      "id": "R1-3-1",
+      "round": 1,
+      "region": "Quadrant 3",
+      "team1": "Missouri St.",
+      "team2": "Saint Louis",
+      "winner": "Missouri St.",
+      "feeders": []
+    },
+    {
+      "id": "R1-3-2",
+      "round": 1,
+      "region": "Quadrant 3",
+      "team1": "Washington",
+      "team2": "Cleveland St.",
+      "winner": "Washington",
+      "feeders": []
+    },
+    {
+      "id": "R1-3-3",
+      "round": 1,
+      "region": "Quadrant 3",
+      "team1": "Oregon St.",
+      "team2": "CSU Bakersfield",
+      "winner": "Oregon St.",
+      "feeders": []
+    },
+    {
+      "id": "R1-3-4",
+      "round": 1,
+      "region": "Quadrant 3",
+      "team1": "NC State",
+      "team2": "Col. of Charleston",
+      "winner": "NC State",
+      "feeders": []
+    },
+    {
+      "id": "R1-4-1",
+      "round": 1,
+      "region": "Quadrant 4",
+      "team1": "UNCW",
+      "team2": "Liberty",
+      "winner": "UNCW",
+      "feeders": []
+    },
+    {
+      "id": "R1-4-2",
+      "round": 1,
+      "region": "Quadrant 4",
+      "team1": "Portland",
+      "team2": "California",
+      "winner": "Portland",
+      "feeders": []
+    },
+    {
+      "id": "R1-4-3",
+      "round": 1,
+      "region": "Quadrant 4",
+      "team1": "Charlotte",
+      "team2": "Lehigh",
+      "winner": "Charlotte",
+      "feeders": []
+    },
+    {
+      "id": "R1-4-4",
+      "round": 1,
+      "region": "Quadrant 4",
+      "team1": "Bryant",
+      "team2": "Houston Christian",
+      "winner": "Bryant",
+      "feeders": []
+    },
+    {
+      "id": "R2-1-1",
+      "round": 2,
+      "region": "Quadrant 1",
+      "team1": "Georgetown",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R1-1-1"
+      ]
+    },
+    {
+      "id": "R2-1-2",
+      "round": 2,
+      "region": "Quadrant 1",
+      "team1": "UCLA",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R1-1-2"
+      ]
+    },
+    {
+      "id": "R2-1-3",
+      "round": 2,
+      "region": "Quadrant 1",
+      "team1": "Rutgers",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R1-1-3"
+      ]
+    },
+    {
+      "id": "R2-1-4",
+      "round": 2,
+      "region": "Quadrant 1",
+      "team1": "Pittsburgh",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R1-1-4"
+      ]
+    },
+    {
+      "id": "R2-2-1",
+      "round": 2,
+      "region": "Quadrant 2",
+      "team1": "Clemson",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R1-2-1"
+      ]
+    },
+    {
+      "id": "R2-2-2",
+      "round": 2,
+      "region": "Quadrant 2",
+      "team1": "Kansas City",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R1-2-2"
+      ]
+    },
+    {
+      "id": "R2-2-3",
+      "round": 2,
+      "region": "Quadrant 2",
+      "team1": "Michigan St.",
+      "team2": "",
+      "winner": "Marshall",
+      "feeders": [
+        "R1-2-3"
+      ]
+    },
+    {
+      "id": "R2-2-4",
+      "round": 2,
+      "region": "Quadrant 2",
+      "team1": "Akron",
+      "team2": "",
+      "winner": "Wake Forest",
+      "feeders": [
+        "R1-2-4"
+      ]
+    },
+    {
+      "id": "R2-3-1",
+      "round": 2,
+      "region": "Quadrant 3",
+      "team1": "Indiana",
+      "team2": "",
+      "winner": "Indiana",
+      "feeders": [
+        "R1-3-1"
+      ]
+    },
+    {
+      "id": "R2-3-2",
+      "round": 2,
+      "region": "Quadrant 3",
+      "team1": "West Virginia",
+      "team2": "",
+      "winner": "Washington",
+      "feeders": [
+        "R1-3-2"
+      ]
+    },
+    {
+      "id": "R2-3-3",
+      "round": 2,
+      "region": "Quadrant 3",
+      "team1": "Louisville",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R1-3-3"
+      ]
+    },
+    {
+      "id": "R2-3-4",
+      "round": 2,
+      "region": "Quadrant 3",
+      "team1": "Maryland",
+      "team2": "",
+      "winner": "NC State",
+      "feeders": [
+        "R1-3-4"
+      ]
+    },
+    {
+      "id": "R2-4-1",
+      "round": 2,
+      "region": "Quadrant 4",
+      "team1": "North Carolina",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R1-4-1"
+      ]
+    },
+    {
+      "id": "R2-4-2",
+      "round": 2,
+      "region": "Quadrant 4",
+      "team1": "South Carolina",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R1-4-2"
+      ]
+    },
+    {
+      "id": "R2-4-3",
+      "round": 2,
+      "region": "Quadrant 4",
+      "team1": "Wisconsin",
+      "team2": "",
+      "winner": "Wisconsin",
+      "feeders": [
+        "R1-4-3"
+      ]
+    },
+    {
+      "id": "R2-4-4",
+      "round": 2,
+      "region": "Quadrant 4",
+      "team1": "SMU",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R1-4-4"
+      ]
+    },
+    {
+      "id": "R3-1-1",
+      "round": 3,
+      "region": "Quadrant 1",
+      "team1": "",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R2-1-1",
+        "R2-1-2"
+      ]
+    },
+    {
+      "id": "R3-1-2",
+      "round": 3,
+      "region": "Quadrant 1",
+      "team1": "",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R2-1-3",
+        "R2-1-4"
+      ]
+    },
+    {
+      "id": "R3-2-1",
+      "round": 3,
+      "region": "Quadrant 2",
+      "team1": "",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R2-2-1",
+        "R2-2-2"
+      ]
+    },
+    {
+      "id": "R3-2-2",
+      "round": 3,
+      "region": "Quadrant 2",
+      "team1": "",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R2-2-3",
+        "R2-2-4"
+      ]
+    },
+    {
+      "id": "R3-3-1",
+      "round": 3,
+      "region": "Quadrant 3",
+      "team1": "",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R2-3-1",
+        "R2-3-2"
+      ]
+    },
+    {
+      "id": "R3-3-2",
+      "round": 3,
+      "region": "Quadrant 3",
+      "team1": "",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R2-3-3",
+        "R2-3-4"
+      ]
+    },
+    {
+      "id": "R3-4-1",
+      "round": 3,
+      "region": "Quadrant 4",
+      "team1": "",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R2-4-1",
+        "R2-4-2"
+      ]
+    },
+    {
+      "id": "R3-4-2",
+      "round": 3,
+      "region": "Quadrant 4",
+      "team1": "",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R2-4-3",
+        "R2-4-4"
+      ]
+    },
+    {
+      "id": "R4-1-1",
+      "round": 4,
+      "region": "Quadrant 1",
+      "team1": "",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R3-1-1",
+        "R3-1-2"
+      ]
+    },
+    {
+      "id": "R4-2-1",
+      "round": 4,
+      "region": "Quadrant 2",
+      "team1": "",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R3-2-1",
+        "R3-2-2"
+      ]
+    },
+    {
+      "id": "R4-3-1",
+      "round": 4,
+      "region": "Quadrant 3",
+      "team1": "",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R3-3-1",
+        "R3-3-2"
+      ]
+    },
+    {
+      "id": "R4-4-1",
+      "round": 4,
+      "region": "Quadrant 4",
+      "team1": "",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R3-4-1",
+        "R3-4-2"
+      ]
+    },
+    {
+      "id": "R5-1-1",
+      "round": 5,
+      "region": "Final Four",
+      "team1": "",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R4-1-1",
+        "R4-2-1"
+      ]
+    },
+    {
+      "id": "R5-2-1",
+      "round": 5,
+      "region": "Final Four",
+      "team1": "",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R4-3-1",
+        "R4-4-1"
+      ]
+    },
+    {
+      "id": "R6-1-1",
+      "round": 6,
+      "region": "Final Four",
+      "team1": "",
+      "team2": "",
+      "winner": "",
+      "feeders": [
+        "R5-1-1",
+        "R5-2-1"
+      ]
+    }
+  ],
+  "picks": {
+    "Jamie": {
+      "R6-1-1": "SMU",
+      "R1-1-1": "Syracuse",
+      "R1-1-2": "Creighton",
+      "R1-1-3": "Cornell",
+      "R1-1-4": "San Diego",
+      "R1-2-1": "Vermont",
+      "R1-2-2": "Stanford",
+      "R1-2-3": "Marshall",
+      "R1-2-4": "Wake Forest",
+      "R1-3-1": "Saint Louis",
+      "R1-3-2": "Washington",
+      "R1-3-3": "Oregon St.",
+      "R1-3-4": "NC State",
+      "R1-4-1": "UNCW",
+      "R1-4-2": "Portland",
+      "R1-4-3": "Charlotte",
+      "R1-4-4": "Bryant",
+      "R2-1-1": "Georgetown",
+      "R2-1-2": "Creighton",
+      "R2-1-3": "Cornell",
+      "R2-1-4": "Pittsburgh",
+      "R2-2-1": "Clemson",
+      "R2-2-2": "Kansas City",
+      "R2-2-3": "Michigan St.",
+      "R2-2-4": "Akron",
+      "R2-3-1": "Indiana",
+      "R2-3-2": "Washington",
+      "R2-3-3": "Louisville",
+      "R2-3-4": "Maryland",
+      "R2-4-1": "North Carolina",
+      "R2-4-2": "Portland",
+      "R2-4-3": "Wisconsin",
+      "R2-4-4": "SMU",
+      "R3-1-1": "Georgetown",
+      "R3-1-2": "Pittsburgh",
+      "R3-2-1": "Clemson",
+      "R3-2-2": "Akron",
+      "R3-3-1": "Washington",
+      "R3-3-2": "Maryland",
+      "R3-4-1": "Portland",
+      "R3-4-2": "SMU",
+      "R4-1-1": "Georgetown",
+      "R4-2-1": "Clemson",
+      "R4-3-1": "Maryland",
+      "R4-4-1": "SMU",
+      "R5-1-1": "Georgetown",
+      "R5-2-1": "SMU"
+    },
+    "Goga": {
+      "R6-1-1": "North Carolina",
+      "R1-1-1": "Syracuse",
+      "R1-1-2": "Creighton",
+      "R1-1-3": "FDU",
+      "R1-1-4": "San Diego",
+      "R1-2-1": "Vermont",
+      "R1-2-2": "Stanford",
+      "R1-2-3": "Marshall",
+      "R1-2-4": "Wake Forest",
+      "R1-3-1": "Saint Louis",
+      "R1-3-2": "Washington",
+      "R1-3-3": "CSU Bakersfield",
+      "R1-3-4": "NC State",
+      "R1-4-1": "UNCW",
+      "R1-4-2": "California",
+      "R1-4-3": "Charlotte",
+      "R1-4-4": "Houston Christian",
+      "R2-1-1": "Syracuse",
+      "R2-1-2": "UCLA",
+      "R2-1-3": "Rutgers",
+      "R2-1-4": "San Diego",
+      "R2-2-1": "Clemson",
+      "R2-2-2": "Stanford",
+      "R2-2-3": "Michigan St.",
+      "R2-2-4": "Akron",
+      "R2-3-1": "Indiana",
+      "R2-3-2": "Washington",
+      "R2-3-3": "Louisville",
+      "R2-3-4": "NC State",
+      "R2-4-1": "North Carolina",
+      "R2-4-2": "South Carolina",
+      "R2-4-3": "Wisconsin",
+      "R2-4-4": "SMU",
+      "R3-1-1": "UCLA",
+      "R3-1-2": "San Diego",
+      "R3-2-1": "Stanford",
+      "R3-2-2": "Michigan St.",
+      "R3-3-1": "Washington",
+      "R3-3-2": "Louisville",
+      "R3-4-1": "North Carolina",
+      "R3-4-2": "SMU",
+      "R4-1-1": "San Diego",
+      "R4-2-1": "Stanford",
+      "R4-3-1": "Washington",
+      "R4-4-1": "North Carolina",
+      "R5-1-1": "San Diego",
+      "R5-2-1": "North Carolina"
+    },
+    "Flaujae": {
+      "R6-1-1": "North Carolina",
+      "R1-1-1": "Syracuse",
+      "R1-1-2": "Omaha",
+      "R1-1-3": "FDU",
+      "R1-1-4": "San Diego",
+      "R1-2-1": "Vermont",
+      "R1-2-2": "Stanford",
+      "R1-2-3": "Marshall",
+      "R1-2-4": "Wake Forest",
+      "R1-3-1": "Saint Louis",
+      "R1-3-2": "Washington",
+      "R1-3-3": "Oregon St.",
+      "R1-3-4": "NC State",
+      "R1-4-1": "UNCW",
+      "R1-4-2": "Portland",
+      "R1-4-3": "Charlotte",
+      "R1-4-4": "Bryant",
+      "R2-1-1": "Georgetown",
+      "R2-1-2": "Omaha",
+      "R2-1-3": "Rutgers",
+      "R2-1-4": "San Diego",
+      "R2-2-1": "Clemson",
+      "R2-2-2": "Stanford",
+      "R2-2-3": "Marshall",
+      "R2-2-4": "Wake Forest",
+      "R2-3-1": "Indiana",
+      "R2-3-2": "Washington",
+      "R2-3-3": "Oregon St.",
+      "R2-3-4": "NC State",
+      "R2-4-1": "North Carolina",
+      "R2-4-2": "Portland",
+      "R2-4-3": "Wisconsin",
+      "R2-4-4": "SMU",
+      "R3-1-1": "Georgetown",
+      "R3-1-2": "Rutgers",
+      "R3-2-1": "Stanford",
+      "R3-2-2": "Wake Forest",
+      "R3-3-1": "Washington",
+      "R3-3-2": "Oregon St.",
+      "R3-4-1": "North Carolina",
+      "R3-4-2": "SMU",
+      "R4-1-1": "Rutgers",
+      "R4-2-1": "Stanford",
+      "R4-3-1": "Washington",
+      "R4-4-1": "North Carolina",
+      "R5-1-1": "Stanford",
+      "R5-2-1": "North Carolina"
+    },
+    "Emma": {
+      "R6-1-1": "Washington",
+      "R1-1-1": "Syracuse",
+      "R1-1-2": "Creighton",
+      "R1-1-3": "FDU",
+      "R1-1-4": "Grand Canyon",
+      "R1-2-1": "Vermont",
+      "R1-2-2": "Stanford",
+      "R1-2-3": "Marshall",
+      "R1-2-4": "Wake Forest",
+      "R1-3-1": "Missouri St.",
+      "R1-3-2": "Washington",
+      "R1-3-3": "Oregon St.",
+      "R1-3-4": "NC State",
+      "R1-4-1": "UNCW",
+      "R1-4-2": "Portland",
+      "R1-4-3": "Charlotte",
+      "R1-4-4": "Bryant",
+      "R2-1-1": "Georgetown",
+      "R2-1-2": "Creighton",
+      "R2-1-3": "FDU",
+      "R2-1-4": "Grand Canyon",
+      "R2-2-1": "Clemson",
+      "R2-2-2": "Stanford",
+      "R2-2-3": "Marshall",
+      "R2-2-4": "Akron",
+      "R2-3-1": "Indiana",
+      "R2-3-2": "Washington",
+      "R2-3-3": "Oregon St.",
+      "R2-3-4": "Maryland",
+      "R2-4-1": "North Carolina",
+      "R2-4-2": "Portland",
+      "R2-4-3": "Wisconsin",
+      "R2-4-4": "SMU",
+      "R3-1-1": "Georgetown",
+      "R3-1-2": "FDU",
+      "R3-2-1": "Clemson",
+      "R3-2-2": "Akron",
+      "R3-3-1": "Washington",
+      "R3-3-2": "Maryland",
+      "R3-4-1": "North Carolina",
+      "R3-4-2": "SMU",
+      "R4-1-1": "Georgetown",
+      "R4-2-1": "Akron",
+      "R4-3-1": "Washington",
+      "R4-4-1": "SMU",
+      "R5-1-1": "Akron",
+      "R5-2-1": "Washington"
+    },
+    "Dom": {
+      "R6-1-1": "Washington",
+      "R1-1-1": "Sacred Heart",
+      "R1-1-2": "Creighton",
+      "R1-1-3": "Cornell",
+      "R1-1-4": "Grand Canyon",
+      "R1-2-1": "Vermont",
+      "R1-2-2": "Tulsa",
+      "R1-2-3": "Marshall",
+      "R1-2-4": "Longwood",
+      "R1-3-1": "Saint Louis",
+      "R1-3-2": "Washington",
+      "R1-3-3": "Oregon St.",
+      "R1-3-4": "Col. of Charleston",
+      "R1-4-1": "UNCW",
+      "R1-4-2": "Portland",
+      "R1-4-3": "Charlotte",
+      "R1-4-4": "Bryant",
+      "R2-1-1": "Georgetown",
+      "R2-1-2": "Creighton",
+      "R2-1-3": "Cornell",
+      "R2-1-4": "Grand Canyon",
+      "R2-2-1": "Clemson",
+      "R2-2-2": "Tulsa",
+      "R2-2-3": "Michigan St.",
+      "R2-2-4": "Akron",
+      "R2-3-1": "Indiana",
+      "R2-3-2": "Washington",
+      "R2-3-3": "Louisville",
+      "R2-3-4": "Col. of Charleston",
+      "R2-4-1": "North Carolina",
+      "R2-4-2": "Portland",
+      "R2-4-3": "Charlotte",
+      "R2-4-4": "SMU",
+      "R3-1-1": "Georgetown",
+      "R3-1-2": "Grand Canyon",
+      "R3-2-1": "Tulsa",
+      "R3-2-2": "Michigan St.",
+      "R3-3-1": "Washington",
+      "R3-3-2": "Louisville",
+      "R3-4-1": "North Carolina",
+      "R3-4-2": "SMU",
+      "R4-1-1": "Georgetown",
+      "R4-2-1": "Tulsa",
+      "R4-3-1": "Washington",
+      "R4-4-1": "SMU",
+      "R5-1-1": "Georgetown",
+      "R5-2-1": "Washington"
+    },
+    "Johnnie": {
+      "R6-1-1": "Indiana",
+      "R1-1-1": "Syracuse",
+      "R1-1-2": "Creighton",
+      "R1-1-3": "Cornell",
+      "R1-1-4": "Grand Canyon",
+      "R1-2-1": "Vermont",
+      "R1-2-2": "Stanford",
+      "R1-2-3": "Marshall",
+      "R1-2-4": "Wake Forest",
+      "R1-3-1": "Missouri St.",
+      "R1-3-2": "Washington",
+      "R1-3-3": "Oregon St.",
+      "R1-3-4": "NC State",
+      "R1-4-1": "UNCW",
+      "R1-4-2": "Portland",
+      "R1-4-3": "Charlotte",
+      "R1-4-4": "Bryant",
+      "R2-1-1": "Georgetown",
+      "R2-1-2": "UCLA",
+      "R2-1-3": "Cornell",
+      "R2-1-4": "Grand Canyon",
+      "R2-2-1": "Vermont",
+      "R2-2-2": "Stanford",
+      "R2-2-3": "Marshall",
+      "R2-2-4": "Wake Forest",
+      "R2-3-1": "Indiana",
+      "R2-3-2": "Washington",
+      "R2-3-3": "Oregon St.",
+      "R2-3-4": "Maryland",
+      "R2-4-1": "North Carolina",
+      "R2-4-2": "Portland",
+      "R2-4-3": "Charlotte",
+      "R2-4-4": "SMU",
+      "R3-1-1": "UCLA",
+      "R3-1-2": "Cornell",
+      "R3-2-1": "Vermont",
+      "R3-2-2": "Wake Forest",
+      "R3-3-1": "Indiana",
+      "R3-3-2": "Maryland",
+      "R3-4-1": "Portland",
+      "R3-4-2": "SMU",
+      "R4-1-1": "UCLA",
+      "R4-2-1": "Wake Forest",
+      "R4-3-1": "Indiana",
+      "R4-4-1": "SMU",
+      "R5-1-1": "Wake Forest",
+      "R5-2-1": "Indiana"
+    },
+    "Brycen": {
+      "R6-1-1": "Indiana",
+      "R1-1-1": "Sacred Heart",
+      "R1-1-2": "Creighton",
+      "R1-1-3": "Cornell",
+      "R1-1-4": "San Diego",
+      "R1-2-1": "North Florida",
+      "R1-2-2": "Stanford",
+      "R1-2-3": "Marshall",
+      "R1-2-4": "Wake Forest",
+      "R1-3-1": "Saint Louis",
+      "R1-3-2": "Washington",
+      "R1-3-3": "Oregon St.",
+      "R1-3-4": "Col. of Charleston",
+      "R1-4-1": "UNCW",
+      "R1-4-2": "Portland",
+      "R1-4-3": "Charlotte",
+      "R1-4-4": "Bryant",
+      "R2-1-1": "Georgetown",
+      "R2-1-2": "Creighton",
+      "R2-1-3": "Cornell",
+      "R2-1-4": "San Diego",
+      "R2-2-1": "Clemson",
+      "R2-2-2": "Kansas City",
+      "R2-2-3": "Marshall",
+      "R2-2-4": "Akron",
+      "R2-3-1": "Indiana",
+      "R2-3-2": "West Virginia",
+      "R2-3-3": "Oregon St.",
+      "R2-3-4": "Maryland",
+      "R2-4-1": "North Carolina",
+      "R2-4-2": "Portland",
+      "R2-4-3": "Wisconsin",
+      "R2-4-4": "SMU",
+      "R3-1-1": "Georgetown",
+      "R3-1-2": "Cornell",
+      "R3-2-1": "Clemson",
+      "R3-2-2": "Akron",
+      "R3-3-1": "Indiana",
+      "R3-3-2": "Oregon St.",
+      "R3-4-1": "Portland",
+      "R3-4-2": "SMU",
+      "R4-1-1": "Georgetown",
+      "R4-2-1": "Akron",
+      "R4-3-1": "Indiana",
+      "R4-4-1": "Portland",
+      "R5-1-1": "Georgetown",
+      "R5-2-1": "Indiana"
+    },
+    "Jacie": {
+      "R6-1-1": "Washington",
+      "R1-1-1": "Syracuse",
+      "R1-1-2": "Omaha",
+      "R1-1-3": "Cornell",
+      "R1-1-4": "San Diego",
+      "R1-2-1": "Vermont",
+      "R1-2-2": "Stanford",
+      "R1-2-3": "Marshall",
+      "R1-2-4": "Wake Forest",
+      "R1-3-1": "Saint Louis",
+      "R1-3-2": "Washington",
+      "R1-3-3": "Oregon St.",
+      "R1-3-4": "NC State",
+      "R1-4-1": "UNCW",
+      "R1-4-2": "Portland",
+      "R1-4-3": "Charlotte",
+      "R1-4-4": "Bryant",
+      "R2-1-1": "Georgetown",
+      "R2-1-2": "UCLA",
+      "R2-1-3": "Cornell",
+      "R2-1-4": "San Diego",
+      "R2-2-1": "Vermont",
+      "R2-2-2": "Stanford",
+      "R2-2-3": "Michigan St.",
+      "R2-2-4": "Wake Forest",
+      "R2-3-1": "Saint Louis",
+      "R2-3-2": "Washington",
+      "R2-3-3": "Louisville",
+      "R2-3-4": "NC State",
+      "R2-4-1": "North Carolina",
+      "R2-4-2": "Portland",
+      "R2-4-3": "Wisconsin",
+      "R2-4-4": "SMU",
+      "R3-1-1": "Georgetown",
+      "R3-1-2": "San Diego",
+      "R3-2-1": "Vermont",
+      "R3-2-2": "Wake Forest",
+      "R3-3-1": "Washington",
+      "R3-3-2": "NC State",
+      "R3-4-1": "Portland",
+      "R3-4-2": "SMU",
+      "R4-1-1": "Georgetown",
+      "R4-2-1": "Vermont",
+      "R4-3-1": "Washington",
+      "R4-4-1": "Portland",
+      "R5-1-1": "Vermont",
+      "R5-2-1": "Washington"
+    }
+  },
+  "updated_at": "2026-11-22T23:37:00+00:00",
+  "champions_transcribed": true
+}
