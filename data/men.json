@@ -162,7 +162,7 @@
       "region": "Quadrant 1",
       "team1": "Georgetown",
       "team2": "",
-      "winner": "",
+      "winner": "Georgetown",
       "feeders": [
         "R1-1-1"
       ]
@@ -184,7 +184,7 @@
       "region": "Quadrant 1",
       "team1": "Rutgers",
       "team2": "",
-      "winner": "",
+      "winner": "Cornell",
       "feeders": [
         "R1-1-3"
       ]
@@ -195,7 +195,7 @@
       "region": "Quadrant 1",
       "team1": "Pittsburgh",
       "team2": "",
-      "winner": "",
+      "winner": "Grand Canyon",
       "feeders": [
         "R1-1-4"
       ]
@@ -206,7 +206,7 @@
       "region": "Quadrant 2",
       "team1": "Clemson",
       "team2": "",
-      "winner": "",
+      "winner": "Vermont",
       "feeders": [
         "R1-2-1"
       ]
@@ -217,7 +217,7 @@
       "region": "Quadrant 2",
       "team1": "Kansas City",
       "team2": "",
-      "winner": "",
+      "winner": "Kansas City",
       "feeders": [
         "R1-2-2"
       ]
@@ -272,7 +272,7 @@
       "region": "Quadrant 3",
       "team1": "Louisville",
       "team2": "",
-      "winner": "",
+      "winner": "Oregon St.",
       "feeders": [
         "R1-3-3"
       ]
@@ -294,7 +294,7 @@
       "region": "Quadrant 4",
       "team1": "North Carolina",
       "team2": "",
-      "winner": "",
+      "winner": "North Carolina",
       "feeders": [
         "R1-4-1"
       ]
@@ -327,7 +327,7 @@
       "region": "Quadrant 4",
       "team1": "SMU",
       "team2": "",
-      "winner": "",
+      "winner": "SMU",
       "feeders": [
         "R1-4-4"
       ]
@@ -907,6 +907,6 @@
       "R5-2-1": "Washington"
     }
   },
-  "updated_at": "2026-11-22T23:37:00+00:00",
+  "updated_at": "2026-11-23T02:11:15+00:00",
   "champions_transcribed": true
 }
