@@ -173,7 +173,7 @@
       "region": "Quadrant 1",
       "team1": "UCLA",
       "team2": "",
-      "winner": "",
+      "winner": "UCLA",
       "feeders": [
         "R1-1-2"
       ]
@@ -305,7 +305,7 @@
       "region": "Quadrant 4",
       "team1": "South Carolina",
       "team2": "",
-      "winner": "",
+      "winner": "South Carolina",
       "feeders": [
         "R1-4-2"
       ]
@@ -907,6 +907,6 @@
       "R5-2-1": "Washington"
     }
   },
-  "updated_at": "2026-11-23T02:11:15+00:00",
+  "updated_at": "2026-11-23T03:25:27+00:00",
   "champions_transcribed": true
 }
