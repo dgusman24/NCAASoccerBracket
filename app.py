@@ -158,12 +158,64 @@ def status(g,p):
     if not g['winner']:return '⏳ Awaiting result'
     return '✅ Correct' if g['winner']==p else '❌ Incorrect'
 
-def display_round(d,person=None):
-    picks=d['picks'].get(person,{}) if person else {}
-    rows=[]
+# def display_round(d,person=None):
+#     picks=d['picks'].get(person,{}) if person else {}
+#     rows=[]
+#     for g in d['games']:
+#         rows.append({'Round':ROUND[g['round']-1],'Game':g['id'],'Match':f"{g['team1'] or 'TBD'} vs {g['team2'] or 'TBD'}",'Actual winner':g['winner'] or 'Pending',**({'Prediction':picks.get(g['id'],'—'),'Status':status(g,picks.get(g['id']))} if person else {})})
+#     st.dataframe(pd.DataFrame(rows),hide_index=True,use_container_width=True,height=540)
+
+
+def display_round(d, person=None):
+    picks = d['picks'].get(person, {}) if person else {}
+    lookup = game_map(d)
+
+    def get_matchup(g):
+        teams = []
+
+        # Include teams already assigned to the game
+        if g.get('team1'):
+            teams.append(g['team1'])
+        if g.get('team2'):
+            teams.append(g['team2'])
+
+        # Fill remaining positions from previous-round winners
+        for feeder_id in g.get('feeders', []):
+            feeder = lookup.get(feeder_id)
+            if feeder:
+                winner = feeder.get('winner', '')
+                if winner:
+                    teams.append(winner)
+                else:
+                    teams.append('TBD')
+
+        # Make sure every game has two slots
+        while len(teams) < 2:
+            teams.append('TBD')
+
+        return f"{teams[0]} vs {teams[1]}"
+
+    rows = []
+
     for g in d['games']:
-        rows.append({'Round':ROUND[g['round']-1],'Game':g['id'],'Match':f"{g['team1'] or 'TBD'} vs {g['team2'] or 'TBD'}",'Actual winner':g['winner'] or 'Pending',**({'Prediction':picks.get(g['id'],'—'),'Status':status(g,picks.get(g['id']))} if person else {})})
-    st.dataframe(pd.DataFrame(rows),hide_index=True,use_container_width=True,height=540)
+        rows.append({
+            'Round': ROUND[g['round'] - 1],
+            'Game': g['id'],
+            'Match': get_matchup(g),
+            'Actual winner': g['winner'] or 'Pending',
+            **({
+                'Prediction': picks.get(g['id'], '—'),
+                'Status': status(g, picks.get(g['id']))
+            } if person else {})
+        })
+
+    st.dataframe(
+        pd.DataFrame(rows),
+        hide_index=True,
+        use_container_width=True,
+        height=540
+    )
+
 
 def graphic(d,person):
     picks=d['picks'].get(person,{})
