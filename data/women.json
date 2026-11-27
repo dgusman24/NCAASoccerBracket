@@ -378,7 +378,7 @@
       "region": "Quadrant 2",
       "team1": "",
       "team2": "",
-      "winner": "",
+      "winner": "Purdue",
       "feeders": [
         "R1-2-5",
         "R1-2-6"
@@ -414,7 +414,7 @@
       "region": "Quadrant 3",
       "team1": "",
       "team2": "",
-      "winner": "",
+      "winner": "Florida St.",
       "feeders": [
         "R1-3-3",
         "R1-3-4"
@@ -462,7 +462,7 @@
       "region": "Quadrant 4",
       "team1": "",
       "team2": "",
-      "winner": "",
+      "winner": "Utah St.",
       "feeders": [
         "R1-4-3",
         "R1-4-4"
@@ -474,7 +474,7 @@
       "region": "Quadrant 4",
       "team1": "",
       "team2": "",
-      "winner": "",
+      "winner": "Kansas",
       "feeders": [
         "R1-4-5",
         "R1-4-6"
@@ -1195,6 +1195,6 @@
       "R5-2-1": "Colorado"
     }
   },
-  "updated_at": "2026-11-27T21:56:49+00:00",
+  "updated_at": "2026-11-27T23:15:44+00:00",
   "champions_transcribed": true
 }
