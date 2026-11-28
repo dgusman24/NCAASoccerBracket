@@ -426,7 +426,7 @@
       "region": "Quadrant 3",
       "team1": "",
       "team2": "",
-      "winner": "",
+      "winner": "Colorado",
       "feeders": [
         "R1-3-5",
         "R1-3-6"
@@ -1195,6 +1195,6 @@
       "R5-2-1": "Colorado"
     }
   },
-  "updated_at": "2026-11-27T23:15:44+00:00",
+  "updated_at": "2026-11-28T00:57:00+00:00",
   "champions_transcribed": true
 }
