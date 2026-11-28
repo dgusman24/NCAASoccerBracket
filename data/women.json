@@ -354,7 +354,7 @@
       "region": "Quadrant 2",
       "team1": "",
       "team2": "",
-      "winner": "",
+      "winner": "Wake Forest",
       "feeders": [
         "R1-2-1",
         "R1-2-2"
@@ -390,7 +390,7 @@
       "region": "Quadrant 2",
       "team1": "",
       "team2": "",
-      "winner": "",
+      "winner": "Ohio St.",
       "feeders": [
         "R1-2-7",
         "R1-2-8"
@@ -402,7 +402,7 @@
       "region": "Quadrant 3",
       "team1": "",
       "team2": "",
-      "winner": "",
+      "winner": "Vanderbilt",
       "feeders": [
         "R1-3-1",
         "R1-3-2"
@@ -438,7 +438,7 @@
       "region": "Quadrant 3",
       "team1": "",
       "team2": "",
-      "winner": "",
+      "winner": "Baylor",
       "feeders": [
         "R1-3-7",
         "R1-3-8"
@@ -450,7 +450,7 @@
       "region": "Quadrant 4",
       "team1": "",
       "team2": "",
-      "winner": "",
+      "winner": "Notre Dame",
       "feeders": [
         "R1-4-1",
         "R1-4-2"
@@ -486,7 +486,7 @@
       "region": "Quadrant 4",
       "team1": "",
       "team2": "",
-      "winner": "",
+      "winner": "Michigan St.",
       "feeders": [
         "R1-4-7",
         "R1-4-8"
@@ -1195,6 +1195,6 @@
       "R5-2-1": "Colorado"
     }
   },
-  "updated_at": "2026-11-28T01:12:44+00:00",
+  "updated_at": "2026-11-28T06:09:42+00:00",
   "champions_transcribed": true
 }
